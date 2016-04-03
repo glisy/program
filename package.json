@@ -1,0 +1,18 @@
+{
+  "name": "glisy",
+  "version": "0.0.1",
+  "repo": "glisy/program",
+  "description": "GlisyProgram module",
+  "keywords": [
+    "glisy",
+    "program"
+  ],
+  "src": [
+    "include/glisy/program.h",
+    "src/program.c"
+  ],
+  "dependencies": {
+    "glisy/gl": "0.0.1",
+    "glisy/color": "0.0.5"
+  }
+}
