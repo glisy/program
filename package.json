@@ -1,6 +1,6 @@
 {
   "name": "glisy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repo": "glisy/program",
   "description": "GlisyProgram module",
   "keywords": [
@@ -13,6 +13,7 @@
   ],
   "dependencies": {
     "glisy/gl": "master",
-    "glisy/color": "master"
+    "glisy/color": "master",
+    "glisy/shader": "master"
   }
 }
